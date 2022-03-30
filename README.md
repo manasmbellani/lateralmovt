@@ -1,2 +1,2 @@
 # lateralmovt
-Lateral movt servers
+Bunch of compiled binaries for day-to-day use
